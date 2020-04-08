@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,QAFA,CACJ,EAAE,CACE,EAAE,CAAA;EACE,eAAe,EAAE,IAAI;CAIxB;;AAPT,AAIY,QAJJ,CACJ,EAAE,CACE,EAAE,CAEE,CAAC,CAAA;EACG,KAAK,EAAC,KAAK;CACd",
+    "sources": [
+        "sitemap.scss"
+    ],
+    "names": [],
+    "file": "sitemap.css"
+}
