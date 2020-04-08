@@ -1,0 +1,1 @@
+This repository holds a big chunk of the website gloreal.be.
